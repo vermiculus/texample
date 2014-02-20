@@ -1,0 +1,11 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+\documentclass{article}
+\usepackage{biblatex}
+\addbibresource{references.bib}
+
+\begin{document}
+Hello, World! \cite{dijkstra}.
+\printbibliography
+\end{document}

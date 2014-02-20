@@ -1,0 +1,2 @@
+Default style is available in this directory.
+Alternative styles available as subdirectories.
