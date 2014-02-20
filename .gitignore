@@ -7,6 +7,12 @@
 *.log
 *.aux
 
+# ConTeXt auxiliary files
+*-mpgraph.mp
+*.tmp
+*.tui
+*.tuo
+
 # BibTeX / Biber
 *.bbl
 *.bcf
