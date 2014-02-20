@@ -1,0 +1,19 @@
+# LaTeX output formats
+*.dvi
+*.xdv
+*.pdf
+
+# LaTeX auxiliary files 
+*.log
+*.aux
+
+# BibTeX / Biber
+*.bbl
+*.bcf
+*.blg
+*.pdf
+*.run.xml
+*.xdv
+
+# Editor-specific
+*.el
