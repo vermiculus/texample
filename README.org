@@ -1,1 +1,11 @@
 This repository has no official affiliation with [[http://www.TeXample.net]].
+
+It is meant to be a repository of example uses of all TeX systems.
+Similar to TeXample.net, these are examples meant
+  not only to be showcases of what TeX systems can do,
+  but also to be minimalist use cases of specific functionalities.
+The combination of functionality is still certainly OK.  =:)=
+
+I haven't quite set down on what I want this to be yet,
+  but please feel free to contribute examples, anything from basics to advanced!
+This is meant as much to be a reference of syntax as it is to be a introduction for beginners.
