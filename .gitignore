@@ -21,6 +21,12 @@
 *.run.xml
 *.xdv
 
-# Editor-specific
+## Editor-specific
+# ignore random elisp files
 *.el
-/latex/bibtex/bibtex.tex~
+# don't ignore directory-local variables; useful for someone else
+!.dir-locals.el
+# backup files
+*~
+# autosave
+\#*\#
