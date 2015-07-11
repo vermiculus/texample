@@ -1,21 +1,34 @@
-% arara: xelatex
-
+% arara: pdflatex
 \documentclass{letter}
+\renewcommand{\today}{July 4, 2015}
+\name{dosk}
+\address{%
+  Mr\@. Paul Duck \\
+  1055 Monacle Terrace \\
+  Co\@. Ducklin}
+\signature{Dr\@. Jamba Juice}
 
 \begin{document}
-\name{Sen. D. Er}
-\signature{Derrick Er}
-\renewcommand{\today}{2014-07-21}
-
-\begin{letter}{Rec. I. Piént}
+\begin{letter}{%
+    The Office of Dr\@. Jamba Juice \\
+    1941 Devember Drive             \\
+    Suite 7}
   
-\opening{Hello,}
-This is a simple letter.
-\closing{Yours,}
+\opening{Mr\@. Duck,}
 
-\ps
+Please come in for you annual physical.  We haven't seen you in twenty
+years.  While I'm sure you have been keeping yourself very healthy
+(you are a markedly long-lived duck!), there are a number of mandatory
+screenings that must be performed:
+\begin{itemize}
+\item rabies
+\item waddle-foot
+\item uncontrolled quacking syndrome
+\end{itemize}
+Please come in at your soonest convenience.
 
-\ps
-
+\closing{Sincerely,}
+\encl{a bribe}
+\ps{I have breadcrumbs.}
 \end{letter}
 \end{document}
