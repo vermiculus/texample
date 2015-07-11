@@ -9,3 +9,7 @@ The combination of functionality is still certainly OK.  =:)=
 I haven't quite set down on what I want this to be yet,
   but please feel free to contribute examples, anything from basics to advanced!
 This is meant as much to be a reference of syntax as it is to be a introduction for beginners.
+
+
+  #+ATTR_HTML: title="Join the chat at https://gitter.im/vermiculus/texample"
+  [[https://gitter.im/vermiculus/texample?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge][file:https://badges.gitter.im/Join%20Chat.svg]]
